@@ -31,7 +31,7 @@ elif z == ("V"):
     print("Результат:" + c)
 elif z == ("S"):
     a = input("Введите число:")
-    b = input("Введите степень")
+    b = input("Введите степень:")
     a = int(a)
     b = int(b)
     c = str(a ** b)
